@@ -28,4 +28,4 @@ def transform_images_multiple(input_folder, output_folder):
 
 
 if __name__ == '__main__':
-    transform_images_multiple('input_images', 'output_images')
+    transform_images_multiple(input_folder, output_folder)
